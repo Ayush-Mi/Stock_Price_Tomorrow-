@@ -22,10 +22,10 @@ Adani Ports : MAE of 16.250679
 BPCL : MAE of 52.8978
 ![BPCL](https://github.com/Ayush-Mi/Stock_Price_Tomorrow-/blob/main/images/results_BPCL.png)
 
-Coal India : MAE of 
+Coal India
 ![Coal India](https://github.com/Ayush-Mi/Stock_Price_Tomorrow-/blob/main/images/results_COALINDIA.png)
 
-HDFC Bank : MAE of
+HDFC Bank : MAE of 113.81
 ![HDFC Bank](https://github.com/Ayush-Mi/Stock_Price_Tomorrow-/blob/main/images/results_HDFCBANK.png)
 
 Tech Mahindra : MAE of 78.01814
