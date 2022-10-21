@@ -10,7 +10,7 @@ The Nifty50 dataset from kaggle has been used for this project which has histori
 
 Diffent companies had different start date depending upon when they were listed in Nifty50 and was consistent till 30th April 2021. The data has high variability as the timeframe also covers the pandemic year and many previous fluctions/corrections in the market. The code randomly selected Adani Ports, BPCL, Coal India, HDFC Bank and Tech Mahindra to train and predict future closing values.
 
-The model uses a combination of CNN and LSTM along with Dense layers to make the predictions using 136k trainable parameters. The 80% of datapoints were used for training and remaining 20% were used for testing.
+The model uses a combination of CNN and LSTM along with Dense layers to make the predictions using 136k trainable parameters. The 80% of datapoints were used for training and remaining 20% were used for testing. The historical closing value of past one month is use to predict the closing price of next business day.
 
 ## Result
 
