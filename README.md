@@ -17,19 +17,19 @@ The model uses a combination of CNN and LSTM along with Dense layers to make the
 Since the model learns just on the historical value of the stock prices without considering other economical factors, the predictions are somewhat good with companies that have less variation in the test data. For example, the stock price of Coal India has been less fluctuating in the train data but in the test data it constantly declines whereas the model predicts that the price will go up. Whereas the stock price of BPCL has seen abrupt downfall previously and hence it is able to predict the same changes in test data.
 
 Adani Ports : MAE of 16.250679
-[](!https://github.com/Ayush-Mi/Stock_Price_Tomorrow-/blob/main/images/results_ADANIPORTS.png)
+![Adani Port](https://github.com/Ayush-Mi/Stock_Price_Tomorrow-/blob/main/images/results_ADANIPORTS.png)
 
 BPCL : MAE of 52.8978
-[BPCL](https://github.com/Ayush-Mi/Stock_Price_Tomorrow-/blob/main/images/results_BPCL.png)
+![BPCL](https://github.com/Ayush-Mi/Stock_Price_Tomorrow-/blob/main/images/results_BPCL.png)
 
 Coal India : MAE of 
-[Coal India](https://github.com/Ayush-Mi/Stock_Price_Tomorrow-/blob/main/images/results_COALINDIA.png)
+![Coal India](https://github.com/Ayush-Mi/Stock_Price_Tomorrow-/blob/main/images/results_COALINDIA.png)
 
 HDFC Bank : MAE of
-[HDFC Bank](https://github.com/Ayush-Mi/Stock_Price_Tomorrow-/blob/main/images/results_HDFCBANK.png)
+![HDFC Bank](https://github.com/Ayush-Mi/Stock_Price_Tomorrow-/blob/main/images/results_HDFCBANK.png)
 
 Tech Mahindra : MAE of 78.01814
-[Tech Mahindra](https://github.com/Ayush-Mi/Stock_Price_Tomorrow-/blob/main/images/results_TECHM.png)
+![Tech Mahindra](https://github.com/Ayush-Mi/Stock_Price_Tomorrow-/blob/main/images/results_TECHM.png)
 
 
 ## Future Works
